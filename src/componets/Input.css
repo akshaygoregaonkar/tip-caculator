@@ -1,0 +1,27 @@
+.addStyle {
+border:"5px solid #09b81e";
+font-size: large;
+font-weight: 200;
+
+}
+
+#text1{
+    margin: 50px;
+    width: 75%;
+    align-items: center;
+}
+.spacing{
+     margin:'50px';
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .container {
+      margin-top: 10px ;
+      margin-bottom: 5px;
+    height: 200px;
+    position: relative;
+    border: 3px solid green;
+  }
+  
+  
